@@ -18,7 +18,34 @@ Con **6 años de trayectoria** profesional, me especializo en diseñar arquitect
 
 ---
 
-### 💼 Disponibilidad
+### 💼 Disponibilidad    Enfoque en Soluciones de Negocio y Escalabilidad
+
+    Mi metodología de trabajo se centra en la robustez y la eficiencia operativa. No solo desarrollo código; diseño la infraestructura necesaria para que los modelos de IA y los flujos de datos masivos operen sin interrupciones.
+
+    Valor agregado para su proyecto:
+
+        Arquitecturas Resilientes: Diseño de sistemas capaces de escalar horizontalmente bajo demanda.
+
+        Automatización MLOps: Reducción drástica del "Time-to-Market" mediante pipelines de integración y despliegue continuo (CI/CD).
+
+        Gobierno de Datos: Optimización de estructuras SQL para garantizar la integridad y velocidad de consulta en entornos de misión crítica.
+
+        Mentalidad Linux-First: Aprovechamiento máximo de recursos del servidor para reducir costos de infraestructura.
+
+
 Estoy abierto a consultorías técnicas de alto nivel y proyectos que requieran un liderazgo técnico sólido.
+Enfoque en Soluciones de Negocio y Escalabilidad
+
+    Mi metodología de trabajo se centra en la robustez y la eficiencia operativa. No solo desarrollo código; diseño la infraestructura necesaria para que los modelos de IA y los flujos de datos masivos operen sin interrupciones.
+
+    Valor agregado para su proyecto:
+
+        Arquitecturas Resilientes: Diseño de sistemas capaces de escalar horizontalmente bajo demanda.
+
+        Automatización MLOps: Reducción drástica del "Time-to-Market" mediante pipelines de integración y despliegue continuo (CI/CD).
+
+        Gobierno de Datos: Optimización de estructuras SQL para garantizar la integridad y velocidad de consulta en entornos de misión crítica.
+
+        Mentalidad Linux-First: Aprovechamiento máximo de recursos del servidor para reducir costos de infraestructura.
 
 👉 **Mira mi portfolio en vivo:** [quique2013.github.io/portfolio/](https://quique2013.github.io/portfolio/)
